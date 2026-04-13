@@ -1,0 +1,1 @@
+console.log("Servidor da barbearia funcionando!")
